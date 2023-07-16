@@ -18,5 +18,6 @@ public class _16_Reference {
         String[] s = new String[3];
         System.out.println(s[0]); //null
 
+
     }
 }
